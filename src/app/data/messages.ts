@@ -1,7 +1,7 @@
 
 /* ---- BDAY INTRO MESSAGES ---- */
 export const INTRO_MESSAGES = {
-  title: 'Is it your birthday today??',
+  title: 'Today is Pooja birthday ',
   subtitle: 'Something magical is about to happen... ✨',
   description1: 'But first we need to fix your heart 💕',
   description2: 'Because it deals with so much and needs love ',
